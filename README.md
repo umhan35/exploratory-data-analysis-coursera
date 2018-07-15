@@ -5,10 +5,10 @@ Some code and slides from the Coursera [Exploratory Data Analysis](https://www.c
 - week 1 
   - Lesson 1: Graphs
   - Lesson 2: Plotting
-  - Lesson 3: Graphics Devices)
+  - Lesson 3: Graphics Devices
 - week 2
   - Lesson 1: Lattice Plotting System
-  - Lesson 2: ggplot2)
+  - Lesson 2: ggplot2
 - week 3
   - Lesson 3: Working with Color
 
